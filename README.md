@@ -7,4 +7,4 @@ This module is use for rearranging the letters
 lets c jw do u tjki
 
 #example 'rearrange_name("Turing, Allan")' will retuen Alland first
-
+hj
